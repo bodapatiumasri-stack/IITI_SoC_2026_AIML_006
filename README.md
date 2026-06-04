@@ -1,2 +1,2 @@
-# IITI_SOC_2026_Gstar
+# IITI_SoC_2026_AIML_006
 
